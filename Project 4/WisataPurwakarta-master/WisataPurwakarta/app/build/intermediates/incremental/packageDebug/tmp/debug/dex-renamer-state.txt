@@ -1,0 +1,7 @@
+#Sun Jan 15 21:06:53 SGT 2023
+base.1=D\:\\Ihsan\\Pelatihan\\UAS_Project Android\\Project 4\\WisataPurwakarta-master\\WisataPurwakarta\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=D\:\\Ihsan\\Pelatihan\\UAS_Project Android\\Project 4\\WisataPurwakarta-master\\WisataPurwakarta\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
